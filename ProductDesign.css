@@ -1,0 +1,184 @@
+body {    
+    text-align: left;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    background-color: 1c63bf;
+}
+
+.Links {
+    position: relative;
+    padding: 9px 0px 50px 0px;   
+    top: -9px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    background-color: #1c63bf;
+    background-size: cover;
+}
+.Links,ul,li {
+    display: inline;
+    padding-left: 20px;
+    color: #ededed;
+} 
+.Links,ul,li,a {
+    text-decoration: none;
+    color: #ededed;
+}
+#Company {
+    float: left;
+    padding-left: 20px;
+}
+#Contact {
+    float: right;
+    padding-right: 20px; 
+}
+
+.Headings {
+    background-image: url(Images/Light%20Sky.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100px;
+    background-repeat: no-repeat;
+    padding: 0px 20px 0px 20px;
+    position: relative;
+    top: -150px;
+}
+.Headings h1{
+    color: #ededed;
+    text-shadow:1px 1px grey; 
+    font-size: 60px;
+    margin: 180px 0px 0px 100px;
+    text-align: left;
+}
+
+.FProducts {
+    background-color: white;
+    height: 660px;
+    margin-top: -190px;
+    font-size: 30px;
+    text-align: center;
+}
+#FS {
+    color: red;
+}
+#PenRed, #PenWhite, #BikeWhite, #Cut, #Stapler, #BikeRed {
+    height: 200px;
+    margin-top: -30px;
+}
+#PenRed {
+    float: left;
+    padding-left: 225px;
+    padding-right: 300px;
+}
+#Stapler {
+    float: right;
+    padding-right: 180px;
+}
+#PenWhite{
+    margin-left: -280px;
+}
+#FRFC,#FRSC,#FRTC,#SRFC,#SRSC,#SRTC,#Future {
+    display: inline;
+    font-size: 20px;
+    float: right; 
+    padding-right: 305px;
+    margin-top: 0px;
+}
+#FRFC {
+    padding-right: 270px;
+    padding-left: 300px;
+}
+#FRSC {
+    padding-right: 50px;
+}
+#FRTC {
+    padding-right: 340px;
+}
+#Cut {
+    margin-right: 150px;
+    margin-top: 10px;
+    float: right;
+}
+#BikeWhite {
+    margin-left: 100px;
+    margin-top: 10px;
+    float: left;
+}
+#BikeRed {
+    padding-right: 145px;
+    float: right;
+    height: 220px;
+    margin-top: 0px;
+}
+#SRFC {
+    padding-right: 270px;
+    padding-left: 300px;
+}
+#SRSC {
+    padding-right: 50px;
+}
+#SRTC {
+    padding-right: 340px;
+}
+#Future {
+    text-align: center;
+    padding-right: 500px;
+    margin-top: 25px;
+    color: red;
+}
+
+.EProducts {
+    background-image: url(Images/Light%20Sky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 670px;
+    margin-top: -50px;
+    font-size: 30px;
+    text-align: center;
+}
+#ES {
+    margin-top: 50px;
+}
+#PenA, #BikeA, #BikeB, #CutA, #StaplerA, #BikeC {
+    height: 200px;
+    margin-top: 0px;
+}
+#PenA {
+    float: left;
+    padding-left: 275px;
+    padding-right: 300px;
+}
+#StaplerA {
+    float: right;
+    padding-right: 130px;
+    height: 150px;
+    padding-top: 20px;
+}
+#CutA{
+    margin-left: -200px;
+}
+#Wow,#TRFC,#TRSC,#TRTC,#ERFC,#ERSC,#ERTC {
+    font-size: 20px;
+    display: inline;
+    float: right;
+    padding-right: 305px;
+    margin-top: 0px;
+}
+#BikeA {
+    float: left;
+    margin-left: 100px;
+}
+#BikeB {
+    float: left;
+    margin-left: 50px; 
+}
+#BikeC {
+    float: left;
+    margin-left: 200px;
+}
+#Wow {
+    float: right;
+    padding-right: 540px;
+    margin-top: 25px;
+}
